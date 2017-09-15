@@ -1,6 +1,6 @@
 # Fashion MNIST - Intro to Deep Learning project.
 
-In this project, I performed basic image preprocessing and deep learning using Keras, a Tensorflow based library. This fashion dataset is similar to handwritten digit dataset MNIST, but for clothes items. Credits to Fashion-MNIST project <a href='https://github.com/zalandoresearch/fashion-mnist'></a>
+In this project, I performed basic image preprocessing and deep learning using Keras, a Tensorflow based library. This fashion dataset is similar to handwritten digit dataset MNIST, but for clothes items. Credits to Zalando's Fashion-MNIST project for the dataset. (https://github.com/zalandoresearch/fashion-mnist)
 
 "Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. We intend Fashion-MNIST to serve as a direct drop-in replacement for the original MNIST dataset for benchmarking machine learning algorithms. It shares the same image size and structure of training and testing splits."
 
