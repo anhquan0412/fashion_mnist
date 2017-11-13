@@ -90,3 +90,10 @@ ENV/
 .idea
 /data/fashion/holdout-labels-idx1-ubyte.gz
 /data/fashion/holdout-images-idx3-ubyte.gz
+
+saved_models/
+learning_curve/
+fashion_mnist_benchmark.txt
+
+
+
